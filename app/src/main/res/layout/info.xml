@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDE7F6"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/oneEightyD"
+        android:contentDescription="@string/infoImage"
+        android:scaleType="fitXY"
+        android:src="@drawable/info" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/tenD"
+        android:layout_marginStart="@dimen/tenD"
+        android:layout_marginTop="@dimen/fifteenD"
+        android:text="@string/abOut"
+        android:textColor="#000000"
+        android:textSize="@dimen/twentyFiveS"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/aboutDelhi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/tenD"
+        android:layout_marginLeft="@dimen/tenD"
+        android:layout_marginRight="@dimen/tenD"
+        android:layout_marginStart="@dimen/tenD"
+        android:layout_marginTop="@dimen/fiveD"
+        android:fontFamily="@font/quando"
+        tools:text="about delhi" />
+
+    <ImageView
+        android:layout_width="@dimen/twoHundredD"
+        android:layout_height="@dimen/twoHundredD"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/tenD"
+        android:contentDescription="@string/map"
+        android:src="@drawable/delhi_district_map" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/tenD"
+        android:layout_marginStart="@dimen/tenD"
+        android:layout_marginTop="@dimen/fifteenD"
+        android:text="@string/ecolOgy"
+        android:textColor="#000000"
+        android:textSize="@dimen/twentyFiveS"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/ecologyDelhi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/tenD"
+        android:layout_marginLeft="@dimen/tenD"
+        android:layout_marginRight="@dimen/tenD"
+        android:layout_marginStart="@dimen/tenD"
+        android:layout_marginTop="@dimen/fiveD"
+        android:fontFamily="@font/quando"
+        tools:text="ecology delhi" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/tenD"
+        android:layout_marginStart="@dimen/tenD"
+        android:layout_marginTop="@dimen/fifteenD"
+        android:text="@string/clImate"
+        android:textColor="#000000"
+        android:textSize="@dimen/twentyFiveS"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/climateDelhi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/tenD"
+        android:layout_marginLeft="@dimen/tenD"
+        android:layout_marginRight="@dimen/tenD"
+        android:layout_marginStart="@dimen/tenD"
+        android:layout_marginTop="@dimen/fiveD"
+        android:fontFamily="@font/quando"
+        tools:text="climate delhi" />
+
+    <ImageView
+        android:layout_width="@dimen/twoHundredD"
+        android:layout_height="@dimen/twoHundredD"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/tenD"
+        android:contentDescription="@string/weather"
+        android:src="@drawable/climate" />
+
+</LinearLayout>

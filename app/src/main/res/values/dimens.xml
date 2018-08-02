@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="threeD">3dp</dimen>
+    <dimen name="fiveD">5dp</dimen>
+    <dimen name="tenD">10dp</dimen>
+    <dimen name="fifteenD">15dp</dimen>
+    <dimen name="twentyD">20dp</dimen>
+    <dimen name="oneEightyD">180dp</dimen>
+    <dimen name="twoHundredD">200dp</dimen>
+    <dimen name="hundredD">100dp</dimen>
+    <dimen name="oneFiftyD">150dp</dimen>
+    <dimen name="twentyEightyD">28dp</dimen>
+
+    <dimen name="thirtyS">30sp</dimen>
+    <dimen name="twentyS">20sp</dimen>
+    <dimen name="twentyFiveS">25sp</dimen>
+</resources>

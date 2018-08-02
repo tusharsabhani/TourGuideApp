@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amaranth_bold_italic</item>
+        <item>@font/el_messiri_medium</item>
+        <item>@font/inknut_antiqua_light</item>
+        <item>@font/magra</item>
+        <item>@font/quando</item>
+    </array>
+</resources>

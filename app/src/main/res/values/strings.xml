@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tour Guide App2</string>
+    <string name="info">INFO</string>
+    <string name="hotel">HOTEL</string>
+    <string name="restaurant">RESTAURANT</string>
+    <string name="tourist">TOURIST</string>
+    <string name="included">INCLUDED</string>
+    <string name="free_wifi">Free Wifi</string>
+    <string name="free_bf">Free Breakfast</string>
+    <string name="abOut">About</string>
+    <string name="ecolOgy">Ecology</string>
+    <string name="clImate">Climate</string>
+
+    <string name="hotelImageDes">Hotel\'s Images</string>
+    <string name="infoImage">Intro pic for info</string>
+    <string name="map">Delhi\'s Map</string>
+    <string name="weather">Weather of 12 Months</string>
+    <string name="resImage">Restaurant\'s Image</string>
+    <string name="touristImage">Image showing the place a tourist can visit</string>
+
+    <string name="about">Delhi, officially the National Capital Territory of Delhi (NCT), is a city and a union territory of India.It is bordered by Haryana on three sides and by Uttar Pradesh to the east. The NCT covers an area of 1,484 square kilometres (573 sq mi). According to the 2011 census, Delhi city proper\'s population was over 11 million, the second-highest in India after Mumbai, while the whole NCT's population was about 16.8 million. Delhi's urban area is now considered to extend beyond the NCT boundary and include the neighboring cities of Faridabad, Gurgaon, Noida and Ghaziabad in an area now called Central National Capital Region</string>
+    <string name="ecology">Delhi is located at 28.61°N 77.23°E, and lies in Northern India. It borders the Indian states of Haryana on the north, west and south and Uttar Pradesh (UP) to the east. Two prominent features of the geography of Delhi are the Yamuna flood plains and the Delhi ridge. The Yamuna river was the historical boundary between Punjab and UP, and its flood plains provide fertile alluvial soil suitable for agriculture but are prone to recurrent floods. The Yamuna, a sacred river in Hinduism, is the only major river flowing through Delhi. The Hindon River separates Ghaziabad from the eastern part of Delhi. The Delhi ridge originates from the Aravalli Range in the south and encircles the west, north-east and north-west parts of the city. It reaches a height of 318 m (1,043 ft) and is a dominant feature of the region.The National Capital Territory of Delhi covers an area of 1,484 km2 (573 sq mi), of which 783 km2 (302 sq mi) is designated rural, and 700 km2 (270 sq mi) urban therefore making it the largest city in terms of area in the country. It has a length of 51.9 km (32 mi) and a width of 48.48 km (30 mi).Delhi is included in India\'s seismic zone-IV, indicating its vulnerability to major earthquakes.</string>
+    <string name="climate">Delhi features an atypical version of the humid subtropical climate bordering a hot semi-arid climate. The warm season lasts from 21 March to 15 June with an average daily high temperature above 39 °C (102 °F). The hottest day of the year is 22 May, with an average high of 40 °C (104 °F) and low of 28 °C (82 °F). The cold season lasts from 26 November to 9 February with an average daily high temperature below 20 °C (68 °F)Temperatures in Delhi usually range from 2 to 47 °C (35.6 to 116.6 °F), with the lowest and highest temperatures ever recorded being −2.2 and 48.4 °C (28.0 and 119.1 °F), respectively. The annual mean temperature is 25 °C (77 °F); monthly mean temperatures range from 13 to 32 °C (55 to 90 °F). The highest temperature recorded in July was 45 °C (113 °F) in 1931. The average annual rainfall is approximately 886 mm (34.9 in), most of which falls during the monsoon in July and August. The average date of the advent of monsoon winds in Delhi is 29 June</string>
+
+
+</resources>

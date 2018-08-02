@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDE7F6"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/fiveD">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/image1"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/oneFiftyD"
+            android:layout_weight="1"
+            android:contentDescription="@string/hotelImageDes"
+            android:scaleType="fitXY" />
+
+        <ImageView
+            android:id="@+id/image2"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/oneFiftyD"
+            android:layout_weight="1"
+            android:contentDescription="@string/hotelImageDes"
+            android:scaleType="fitXY" />
+
+    </LinearLayout>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/tenD"
+        android:layout_marginLeft="@dimen/tenD"
+        android:layout_marginRight="@dimen/tenD"
+        android:layout_marginStart="@dimen/tenD">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/hotelName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/fiveD"
+                android:layout_marginStart="@dimen/fiveD"
+                android:fontFamily="@font/amaranth_bold_italic"
+                android:textColor="#000000"
+                android:textSize="@dimen/twentyS"
+                android:textStyle="bold"
+                tools:text="HotelName" />
+
+            <TextView
+                android:id="@+id/included"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/hotelName"
+                android:layout_marginLeft="@dimen/fiveD"
+                android:layout_marginStart="@dimen/fiveD"
+                android:paddingTop="@dimen/twentyD"
+                android:text="@string/included"
+                android:textColor="#BDBDBD" />
+
+            <TextView
+                android:id="@+id/wifi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/included"
+                android:layout_marginLeft="@dimen/fiveD"
+                android:layout_marginStart="@dimen/fiveD"
+                android:paddingTop="@dimen/threeD"
+                android:text="@string/free_wifi"
+                android:textColor="#90CAF9" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/wifi"
+                android:layout_marginLeft="@dimen/fiveD"
+                android:layout_marginStart="@dimen/fiveD"
+                android:paddingTop="@dimen/threeD"
+                android:text="@string/free_bf"
+                android:textColor="#90CAF9" />
+
+            <TextView
+                android:id="@+id/price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:paddingEnd="@dimen/fiveD"
+                android:paddingRight="@dimen/fiveD"
+                android:textColor="#000000"
+                android:textSize="@dimen/thirtyS"
+                android:textStyle="bold"
+                tools:text="$20" />
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

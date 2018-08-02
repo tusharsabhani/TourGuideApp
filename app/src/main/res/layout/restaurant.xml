@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDE7F6"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/hundredD"
+        android:layout_margin="@dimen/tenD">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/res_image"
+                android:layout_width="@dimen/hundredD"
+                android:layout_height="@dimen/hundredD"
+                android:contentDescription="@string/resImage"
+                android:scaleType="fitXY"
+                android:src="@drawable/delhi" />
+
+            <TextView
+                android:id="@+id/res_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/res_image"
+                android:layout_toRightOf="@+id/res_image"
+                android:paddingLeft="@dimen/fiveD"
+                android:paddingStart="@dimen/fiveD"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                tools:text="NAME" />
+
+            <TextView
+                android:id="@+id/res_place"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/res_name"
+                android:layout_toEndOf="@id/res_image"
+                android:layout_toRightOf="@+id/res_image"
+                android:paddingLeft="@dimen/fiveD"
+                android:paddingStart="@dimen/fiveD"
+                tools:text="place" />
+
+            <TextView
+                android:id="@+id/res_cuisine"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/res_place"
+                android:layout_toEndOf="@+id/res_image"
+                android:layout_toRightOf="@id/res_image"
+                android:paddingLeft="@dimen/fiveD"
+                android:paddingStart="@dimen/fiveD"
+                tools:text="cuisine" />
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
