@@ -22,13 +22,15 @@ public class CategoryAdapter extends FragmentPagerAdapter{
             return new TouristFragment();
         else if(position==2)
             return new RestaurantFragment();
-        else
+        else if(position ==3)
             return new  HotelFragment();
+        else
+            return new ShoppingFragment();
     }
 
     @Override
     public int getCount() {
-        return 4;
+        return 5;
     }
 
     @Override
@@ -39,7 +41,9 @@ public class CategoryAdapter extends FragmentPagerAdapter{
             return mContext.getString(R.string.tourist);
         else if (position == 2)
             return mContext.getString(R.string.restaurant);
-        else
+        else if(position ==3)
             return mContext.getString(R.string.hotel);
+        else
+            return  mContext.getString(R.string.shopping);
     }
 }

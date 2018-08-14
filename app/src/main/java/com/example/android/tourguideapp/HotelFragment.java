@@ -27,11 +27,11 @@ public class HotelFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.list,container,false);
 
         final ArrayList<Hotel> hotelList = new ArrayList<>();
-        hotelList.add(new Hotel("The Leela","$25",R.drawable.leela,R.drawable.leela_room));
-        hotelList.add(new Hotel("Radisson Blu","$23",R.drawable.radisson_blu,R.drawable.radisson_blu_room));
-        hotelList.add(new Hotel("The Oberoi","$20",R.drawable.oberoi,R.drawable.oberoi_room));
-        hotelList.add(new Hotel("ITC Maurya","$24",R.drawable.itc_maurya,R.drawable.itc_maurya_room));
-        hotelList.add(new Hotel("The Suryaa","$22",R.drawable.suryaa,R.drawable.suryaa_room));
+        hotelList.add(new Hotel(getString(R.string.leela),"$25",R.drawable.leela,R.drawable.leela_room));
+        hotelList.add(new Hotel(getString(R.string.radBlu),"$23",R.drawable.radisson_blu,R.drawable.radisson_blu_room));
+        hotelList.add(new Hotel(getString(R.string.oberoi),"$20",R.drawable.oberoi,R.drawable.oberoi_room));
+        hotelList.add(new Hotel(getString(R.string.maurya),"$24",R.drawable.itc_maurya,R.drawable.itc_maurya_room));
+        hotelList.add(new Hotel(getString(R.string.suryaa),"$22",R.drawable.suryaa,R.drawable.suryaa_room));
 
         HotelAdapter adapter = new HotelAdapter(getActivity(),hotelList);
         ListView listView = rootView.findViewById(R.id.list);

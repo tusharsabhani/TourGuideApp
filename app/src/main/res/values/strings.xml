@@ -4,6 +4,7 @@
     <string name="hotel">HOTEL</string>
     <string name="restaurant">RESTAURANT</string>
     <string name="tourist">TOURIST</string>
+    <string name="shopping">SHOPPING</string>
     <string name="included">INCLUDED</string>
     <string name="free_wifi">Free Wifi</string>
     <string name="free_bf">Free Breakfast</string>
@@ -11,6 +12,62 @@
     <string name="ecolOgy">Ecology</string>
     <string name="clImate">Climate</string>
 
+    <string name="leela">The Leela</string>
+    <string name="radBlu">Radisson Blu</string>
+    <string name="oberoi">The Oberoi</string>
+    <string name="maurya">ITC Maurya</string>
+    <string name="suryaa">The Suryaa</string>
+
+    <string name="junkCafe">Junkyard Cafe</string>
+    <string name="junkCafeP">Saket, New Delhi</string>
+    <string name="junkCafeC">Lounge - North Indian, Asian, Mediterranean</string>
+    <string name="garamDharam">Garam Dharam</string>
+    <string name="garamDharamP">Connaught Place,New Delhi</string>
+    <string name="garamDharamC">Casual Dining - North Indian</string>
+    <string name="berco">Berco\'s</string>
+    <string name="bercoP">Sector 12, Noida</string>
+    <string name="bercoC">Casual Dining - Chinese, Thai</string>
+    <string name="chili">Chili\'s Grill &#38; Bar</string>
+    <string name="chiliP">Ambience Mall,Vasant Kunj, New Delhi</string>
+    <string name="chiliC">Casual Dining - American, Italian, Mexican</string>
+    <string name="spezia">Spezia Bistro</string>
+    <string name="speziaP">DU - GTB Nagar, New Delhi</string>
+    <string name="speziaC">Cafe - Continental, Chinese, Italian</string>
+
+    <string name="akshar">Akshardham Temple</string>
+    <string name="bangla">Bangla Sahib Gurudwara</string>
+    <string name="hauz">Hauz Khas Fort</string>
+    <string name="india">India Gate</string>
+    <string name="lotus">Lotus Temple</string>
+    <string name="qutub">Qutub Minar</string>
+    <string name="old">Old Fort</string>
+    <string name="rashtra">Rashtrapati Bhavan</string>
+    <string name="red">Red Fort</string>
+    <string name="select">Select Citywalk</string>
+
+    <string name="shoppingImage">Image showing the market</string>
+    <string name="cp">Connaught Place is the busiest of all the shopping places of Delhi is Connaught Place. This shopping place looks great with its white appearance. You will find the outlets of all brands here at the same point within a distance of few steps. The well organized showrooms and stores of Connaught Place offers a range of classy fabric, jewelry, Indian books, handcraft items, electronic goods and more. Besides showrooms and stores, it has numerous hotels, restaurants, café and multiplexers. It is considered as the best place to find the finest of what you want.\n\n
+
+    Location  :  Connaught Place, New Delhi, India\n
+    How to Reach  :  Metro (Rajiv Chowk Metro Station)\n
+    What to Buy  :  Clothes, jewelry, books and more\n
+    Timings  :  Till late night
+    </string>
+    <string name="palika">Palika Bazaar is the shopping plaza is situated at the center of Connaught Place and is fully air-conditioned. Delhiites and people visiting Delhi from other region of India purchase clothes, perfumes, accessories, footwear, electronic products, CDs and many other products from Palika Bazaar. One should have the ability to bargain to get the products at reasonable prices. This place is well connected through all modes of public transport such as buses, taxies, autos and metro.\n\n
+
+    Location: Connaught Place, New Delhi, India\n
+    How to Reach: Metro (Rajiv Chowk Metro Station)\n
+    What to Buy: Clothes, perfumes, accessories, footwear\n
+    Timings: 10:00 AM - 7:00 PM (all days of the week) except Sunday
+    </string>
+    <string name="dilliHaat">Dilli Hatt is a colorful shopping place that offers traditional handicrafts and handlooms from the villages of India. Therefore, it is named as Dilli Haat because it is set up in a manner Indian village markets are set up. You will get the ultimate feel of Indian villages as the shops resembles like thatched roof cottages. Besides purchasing pottery, jewelry, saris and paintings, you can also taste the spicy and delicious food served in the stalls within the campus.\n\n
+
+    Location: Sri Aurobindo Marg, New Delhi, India\n
+    How to Reach: Metro (INA Metro Station)\n
+    What to Buy: Fabrics, pottery, furniture and many more\n
+    Timings: 11:00AM to 9:00PM (all days of the week)
+    </string>
+    
     <string name="hotelImageDes">Hotel\'s Images</string>
     <string name="infoImage">Intro pic for info</string>
     <string name="map">Delhi\'s Map</string>
@@ -21,6 +78,9 @@
     <string name="about">Delhi, officially the National Capital Territory of Delhi (NCT), is a city and a union territory of India.It is bordered by Haryana on three sides and by Uttar Pradesh to the east. The NCT covers an area of 1,484 square kilometres (573 sq mi). According to the 2011 census, Delhi city proper\'s population was over 11 million, the second-highest in India after Mumbai, while the whole NCT's population was about 16.8 million. Delhi's urban area is now considered to extend beyond the NCT boundary and include the neighboring cities of Faridabad, Gurgaon, Noida and Ghaziabad in an area now called Central National Capital Region</string>
     <string name="ecology">Delhi is located at 28.61°N 77.23°E, and lies in Northern India. It borders the Indian states of Haryana on the north, west and south and Uttar Pradesh (UP) to the east. Two prominent features of the geography of Delhi are the Yamuna flood plains and the Delhi ridge. The Yamuna river was the historical boundary between Punjab and UP, and its flood plains provide fertile alluvial soil suitable for agriculture but are prone to recurrent floods. The Yamuna, a sacred river in Hinduism, is the only major river flowing through Delhi. The Hindon River separates Ghaziabad from the eastern part of Delhi. The Delhi ridge originates from the Aravalli Range in the south and encircles the west, north-east and north-west parts of the city. It reaches a height of 318 m (1,043 ft) and is a dominant feature of the region.The National Capital Territory of Delhi covers an area of 1,484 km2 (573 sq mi), of which 783 km2 (302 sq mi) is designated rural, and 700 km2 (270 sq mi) urban therefore making it the largest city in terms of area in the country. It has a length of 51.9 km (32 mi) and a width of 48.48 km (30 mi).Delhi is included in India\'s seismic zone-IV, indicating its vulnerability to major earthquakes.</string>
     <string name="climate">Delhi features an atypical version of the humid subtropical climate bordering a hot semi-arid climate. The warm season lasts from 21 March to 15 June with an average daily high temperature above 39 °C (102 °F). The hottest day of the year is 22 May, with an average high of 40 °C (104 °F) and low of 28 °C (82 °F). The cold season lasts from 26 November to 9 February with an average daily high temperature below 20 °C (68 °F)Temperatures in Delhi usually range from 2 to 47 °C (35.6 to 116.6 °F), with the lowest and highest temperatures ever recorded being −2.2 and 48.4 °C (28.0 and 119.1 °F), respectively. The annual mean temperature is 25 °C (77 °F); monthly mean temperatures range from 13 to 32 °C (55 to 90 °F). The highest temperature recorded in July was 45 °C (113 °F) in 1931. The average annual rainfall is approximately 886 mm (34.9 in), most of which falls during the monsoon in July and August. The average date of the advent of monsoon winds in Delhi is 29 June</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>
